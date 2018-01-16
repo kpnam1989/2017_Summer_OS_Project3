@@ -1,4 +1,16 @@
-# Project design
+# Description of the class
+This is my second class at OMSCS. The first class is Compiler: Theory and Practice. This is another challenging class for me due to my lack of training in Computer Science. 
+
+Through the class, I was able to learn extensively about:
+-	The C programming language
+-	Memory allocation in an operating system
+-	Communications between processes in an OS
+-	Remote procedure call
+
+I am proud to have overcome my disadvantages, and to be able to perform well in this class. Indeed, there were many times I realized that I was able to understand the materials and the logic much better than other students in the class with a Computer Science background.
+
+
+# Solution: Project design
 As suggested in the project description, the webproxy and simplecached communicate through 2 channels:
 ## Command channel: 
 ### Message passing:
